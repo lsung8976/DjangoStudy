@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'pybo.apps.PyboConfig',
+    'pybo.templatetags.pybo_filter',
 ]
 
 MIDDLEWARE = [
